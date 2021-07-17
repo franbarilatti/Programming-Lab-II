@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1623861602 source:c:\users\los baros\onedrive\escritorio\proyectos de prueba\practica labo ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menues.h"
+
+1623861602 c:\users\los baros\onedrive\escritorio\proyectos de prueba\practica labo ii\menues.h
+
+1626361136 source:c:\users\los baros\onedrive\escritorio\proyectos de prueba\practica labo ii\menues.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"primertp.h"
+	"menues.h"
+	"secondpw.h"
+	"thirdpw.h"
+	"fourthpw.h"
+
+1624036822 c:\users\los baros\onedrive\escritorio\proyectos de prueba\practica labo ii\primertp.h
+
+1624640501 source:c:\users\los baros\onedrive\escritorio\proyectos de prueba\practica labo ii\primertp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"primertp.h"
+
+1625777280 c:\users\los baros\onedrive\escritorio\proyectos de prueba\practica labo ii\secondpw.h
+
+1626315610 source:c:\users\los baros\onedrive\escritorio\proyectos de prueba\practica labo ii\secondpw.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"secondpw.h"
+	"primertp.h"
+
+1626360919 source:c:\users\los baros\onedrive\escritorio\proyectos de prueba\practica labo ii\thirdpw.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"thirdpw.h"
+
+1626360675 c:\users\los baros\onedrive\escritorio\proyectos de prueba\practica labo ii\thirdpw.h
+
+1626447394 c:\users\los baros\onedrive\escritorio\proyectos de prueba\practica labo ii\fourthpw.h
+
